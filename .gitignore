@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+target/
+.env
+.env.local
+.idea/
+.vscode/
+*.class
+*.iml
